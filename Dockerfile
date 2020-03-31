@@ -6,4 +6,4 @@ RUN apk update
     
 RUN apk upgrade
 
-RUN apk add tmux nano vim git sudo man
+RUN apk add tmux nano vim git sudo man python
